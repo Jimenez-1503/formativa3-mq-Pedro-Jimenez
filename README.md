@@ -17,7 +17,7 @@ Foi organizado através de pastas e subpastas:
     ├── scripts/ (Lógica de interação)
     └── images/  (Ativos visuais)
 
-## 🚀 Funcionalidades Implementadas
+## 🚀 CSS aplicado
 
 * **Missão 1: O Ponto de Quebra para Tablets (768px):** Crie uma regra @media para telas com largura máxima de 768px.
 * **Missão 2: Ajuste de Layout (Tablet):** Dentro da Media Query da Missão 1: Capture a classe .grid-pacotes (que exibe os planetas). Originalmente ela usa 3 colunas. Altere a configuração do Grid para exibir apenas 2 colunas de tamanhos iguais.
